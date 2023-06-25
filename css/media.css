@@ -1,0 +1,281 @@
+@media  screen and ( min-width:500px ) and ( max-width:700px )
+{
+
+    body{
+
+
+        width: 100%;
+
+
+    }
+    .navbar{
+
+        width: 100%;
+    }
+    
+
+
+    .left{
+
+
+        width: 100%;
+    }
+    .right{
+
+        width: 100%;
+
+
+
+    }
+    .section2{
+
+width: 100%;
+
+
+    }
+    .title4{
+
+
+        width: 100%;
+    }
+    .contact1{
+
+        margin-bottom: 50px;
+
+        width: 100%;
+    }
+    .contact2{
+
+        width: 100%;
+
+
+        margin-bottom: 50px;
+
+
+
+    }
+    .contact3{
+
+
+
+        width: 100%;
+    }
+    .Gallery{
+
+        
+        width: 100%;
+    }
+    .Gallery .bg8{
+
+
+        width: 100%;
+    }
+    .Gallery .bg9{
+
+
+        width: 100%;
+    }
+
+    .Gallery .bg10{
+
+
+
+
+        width:100%
+    }
+    .map iframe{
+
+        width: 90%;
+    }
+    .detalis{
+width: 100%;
+
+
+
+    }
+    .address{
+
+        margin: 30px;
+        width: 100%;
+    }
+
+
+    .email{
+
+
+        width: 100%;
+    }
+    .detalis2{
+
+
+        width: 100%;
+    }
+    .call-us{
+        width: 82%;
+    }
+    .OpeningHours{
+
+
+        width: 90%;
+    }
+    form{
+        text-align: center;
+        width: 100%;
+    }
+    .input input{
+
+        width: 97%;
+    }
+
+
+
+    .about{
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    .subscribe{
+
+        width: 100%;
+    }
+    .endclass{
+
+
+
+        width:100%;
+    }
+}
+
+
+@media screen and (min-width:700px) and ( max-width:1200px ) {
+
+
+   
+
+
+    .left{
+
+
+        width:50%;
+    }
+    .right{
+
+        width: 50%;
+
+
+
+    }
+
+    .title4{
+
+
+        width: 100%;
+    }
+    .contact1{
+
+        margin-bottom: 50px;
+
+        width:45%;
+    }
+    .contact2{
+
+        width: 45%;
+margin-right: 10px;
+
+        margin-bottom: 50px;
+
+
+
+    }
+    .contact3{
+
+
+
+        width:50%;
+    }
+    .GALLERY picture{
+
+        margin: 25px;
+        width: 25%;
+    }
+    .map iframe{
+
+        width: 90%;
+    }
+    .detalis{
+width: 100%;
+
+
+
+    }
+    .address{
+
+        margin: 30px;
+        width:50%;
+    }
+
+
+    .email{
+
+
+        width: 50%;
+    }
+    .detalis2{
+
+
+        width: 50%;
+    }
+    .call-us{
+        width: 100%;
+   
+    }
+    .OpeningHours{
+
+        width:100%;
+    }
+    form{
+        text-align: center;
+        width: 50%;
+    }
+    .input input{
+text-align: center;
+        width: 50%;
+    }
+
+
+
+    .about{
+        width:20%;
+        margin-bottom: 10px;
+    }
+    .subscribe{
+
+        width: 20%;
+    }
+    .endclass{
+
+
+
+        width:20%;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+}

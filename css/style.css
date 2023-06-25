@@ -1,0 +1,107 @@
+.my-navs a{
+
+color: white;
+
+
+
+}
+.my-navs a:hover{
+
+
+    color: black;
+
+
+    transition-duration: 0.8s;
+
+}
+
+.my-row{
+
+height: 100vh;
+
+
+}
+
+.figure img:hover{
+    transform:scale() ;
+    -webkit-transform:scale() ;
+    -moz-transform:scale() ;
+    -ms-transform:scale() ;
+    -o-transform:scale() ;
+}
+
+.contact-us{
+
+    position: relative;
+
+
+}
+
+.layar{
+    position: absolute;
+    right: 22px;
+    top: 27px;
+    left: 75%;
+    bottom: 55%;
+    background-color: rgba(0, 0, 0, 0.388);
+    border-radius:25px ;
+    -webkit-border-radius:25px ;
+    -moz-border-radius:25px ;
+    -ms-border-radius:25px ;
+    -o-border-radius:25px ;
+    opacity: 0;
+    transition: 0.9s all;
+    -webkit-transition: 0.9s all;
+    -moz-transition: 0.9s all;
+    -ms-transition: 0.9s all;
+    -o-transition: 0.9s all;
+}
+
+
+.contact-us:hover .layar{
+    opacity: 1;
+   
+}
+.h-3::first-letter{
+color: brown;
+
+
+}
+.my-image img{
+
+border: solid white 5px;
+
+
+
+}
+#sec2{
+
+
+
+    background-color: rgba(128, 128, 128, 0.176);
+}
+.my-ancor :hover{
+    transition: 1s;
+    background-color: coral;
+    -webkit-transition: 1s;
+    -moz-transition: 1s;
+    -ms-transition: 1s;
+    -o-transition: 1s;
+    transform: translateX(5px);
+    -webkit-transform: translateX(5px);
+    -moz-transform: translateX(5px);
+    -ms-transform: translateX(5px);
+    -o-transform: translateX(5px);
+}
+
+footer{
+
+   
+
+    background-image: url(../img/textured-metal-background.jpg);
+
+    background-size: 100% 100%;
+
+
+
+}
